@@ -1,4 +1,4 @@
-let alphanum = {
+{
 	"A" : [
 		{
 			"x": 1,
